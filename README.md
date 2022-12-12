@@ -4,3 +4,4 @@ Juan Pablo Resendiz Molina-----1321124169
 Jose Eduardo De La Cruz Medina-----1321124027
 PELISLAJUSA
 INGENIERIA EN SOFTWARE
+3422IS
