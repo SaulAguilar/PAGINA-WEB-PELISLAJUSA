@@ -1,0 +1,38 @@
+.le{
+    color:white;
+}
+.boton{
+color: red;
+font-size: 20px;
+font-weight: 500;
+padding: 0.5em 1.2em;
+background: white;
+border: 2px solid;
+border-color: white;
+transition: all 1s ease;
+position: relative;
+}
+.boton:hover {
+background: red;
+color: white;
+}
+.boton3 {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: black;
+    border: 2px solid;
+    border-color: white;
+    transition: all 1s ease;
+    position: relative;
+  }
+  .boton3:hover {
+    background: white;
+    color: black;
+  }
+  .img{
+    background-size: hover;
+}
+
+
